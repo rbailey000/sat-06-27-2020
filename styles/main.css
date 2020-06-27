@@ -1,0 +1,23 @@
+body {
+    margin-top: 0;
+    margin-left: 0;
+    background-color: orange;
+}
+
+h1 {
+    margin-bottom: 0;
+} 
+
+h1 span {
+    background-color: salmon;
+}
+
+#envelope {
+    border: 6px solid aquamarine;
+    background: #eee;
+    width: 290px;
+}
+
+.palign {
+    text-align: center;
+}
